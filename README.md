@@ -1,6 +1,6 @@
 # 🛡️ N3i AntiVirus (NAV)
 
-**N3i AntiVirus (NAV)** adalah aplikasi anti virus untuk membunuh virus virus di komputer . NAV mampu melakukan proses scanning FULL**
+**N3i AntiVirus (NAV)** adalah aplikasi anti virus untuk membunuh virus virus di komputer . NAV mampu melakukan proses scanning FULL
 
 > ⚠️ **PENTING:** Aplikasi ini **WAJIB dijalankan sebagai Administrator** agar dapat bekerja dengan benar. RUN AS ADMINISTRATOR !
 
